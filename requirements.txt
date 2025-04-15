@@ -1,0 +1,7 @@
+mcp[cli]
+starlette
+uvicorn
+sqlalchemy
+langchain-mcp-adapters
+langchain-ollama
+langgraph
