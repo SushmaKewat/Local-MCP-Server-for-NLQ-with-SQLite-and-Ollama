@@ -5,3 +5,5 @@ sqlalchemy
 langchain-mcp-adapters
 langchain-ollama
 langgraph
+langchain-openai
+python-dotenv
